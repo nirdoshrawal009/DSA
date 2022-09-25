@@ -1,0 +1,1 @@
+{"name":"Local: 8","url":"d:\\DCS\\DSA\\8.4_array_challenge.cpp","tests":[{"id":1654572143899,"input":"8\n1 2 0 7 2 0 2 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DCS\\DSA\\8.4_array_challenge.cpp","group":"local","local":true}

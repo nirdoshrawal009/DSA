@@ -1,0 +1,1 @@
+{"name":"Local: 8","url":"d:\\DCS\\DSA\\8.6_subarray_challenge.cpp","tests":[{"id":1656432999574,"input":"7\n4 -4 6 -6 10 -11 12","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DCS\\DSA\\8.6_subarray_challenge.cpp","group":"local","local":true}

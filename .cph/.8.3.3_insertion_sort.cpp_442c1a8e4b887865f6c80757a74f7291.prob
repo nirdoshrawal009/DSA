@@ -1,0 +1,1 @@
+{"name":"Local: 8","url":"d:\\DCS\\DSA\\8.3.3_insertion_sort.cpp","tests":[{"id":1653671489432,"input":"5\n34 98 12 50 34","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DCS\\DSA\\8.3.3_insertion_sort.cpp","group":"local","local":true}
